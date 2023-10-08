@@ -1,5 +1,5 @@
 # Black Cat Is Coming ...
-<img align="center" alt="Programmer" width="1200" src="[https://www.canva.com/design/DAFruSvagBU/wiiZ6uVxDQS0Qnh1qy-xZw/watch?utm_content=DAFruSvagBU&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel]">
+<img align="center" alt="Programmer" width="1200" src="./src/banner.gif">
 
 <div align="center">
   <h1> 😎 About Me</h1>
