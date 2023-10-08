@@ -1,10 +1,9 @@
-# Welcome to my Github ...
 <img align="center" alt="Programmer" width="1200" src="./src/banner.gif">
 
 <div align="center">
-  <h1> 😎 About Me</h1>
-  Hi! Menu AIAI Tum rai dee a mai ru lei
-
+  <h1>About Me</h1>
+  <h2>Hi, I'm Menu 👋<h2>
+  I'm a passionate tech enthusiast with a multifaceted skill set spanning across web development, artificial intelligence, project management, and business strategy. My journey in the world of technology and business began several years ago, and I've been on an exciting and ever-evolving path since then.
 </div>
 
 <p align="left">
