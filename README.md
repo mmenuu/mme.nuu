@@ -22,11 +22,11 @@
 <h1 align="center"> 🎖️ Awards 🎖️ </h1>
 
 ### 2022
-- SAIG's lab member : ~
+- SAIG's lab member
 - Digital Innovation Sandbox : SynHub Digital-Tech Community Award, The finisher, Just-iD Award
 
 ### 2023
-- BKK Open Source Hackathon : ~
+- BKK Open Source Hackathon
 - Amity Hackathon 2023 (E-COM) : Frist runner-up, General Public
 - 42 Bangkok - Discovery Piscine : Certificate, Best Presentation Reward(Rush Project)
 - Innovation Robotic AI & IOT Contest 2023 : The winner, Best technique award
