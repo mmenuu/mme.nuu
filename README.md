@@ -27,7 +27,7 @@
 
 ### 2023
 - BKK Open Source Hackathon
-- Amity Hackathon 2023 (E-COM) : Frist runner-up, General Public
+- Amity Hackathon 2023 (E-COM) : First runner-up, General Public
 - 42 Bangkok - Discovery Piscine : Certificate, Best Presentation Reward(Rush Project)
 - Innovation Robotic AI & IOT Contest 2023 : The winner, Best technique award
 - Carbon App(Green Block) : Consolation prize
