@@ -31,7 +31,6 @@
 - 42 Bangkok - Discovery Piscine : Certificate, Best Presentation Reward(Rush Project)
 - Innovation Robotic AI & IOT Contest 2023 : The winner, Best technique award
 - Carbon App(Green Block) : Consolation prize
-- Top Gun TESA : on going
-- Warehouse Hackathon : on going
+- Top Gun Rally! TESA (TGR17) : Best Score On Project Management
 
 
